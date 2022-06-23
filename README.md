@@ -1,2 +1,0 @@
-# GithubPizza
-Thinkful Example
